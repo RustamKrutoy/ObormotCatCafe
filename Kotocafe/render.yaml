@@ -4,4 +4,4 @@
     env: dotnet
     plan: free
     buildCommand: "dotnet publish -c Release -o out"
-    startCommand: "dotnet out/ObormotCatCafe.dll"
+    startCommand: "dotnet out/Kotocafe.dll"
