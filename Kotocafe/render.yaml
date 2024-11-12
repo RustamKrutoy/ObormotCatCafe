@@ -4,4 +4,4 @@ services:
     env: dotnet
     plan: free
     buildCommand: "dotnet publish -c Release"
-    startCommand: "dotnet bin/Release/net6.0/publish/Kotocafe.dll"
+    startCommand: "dotnet bin/Release/net8.0/publish/Kotocafe.dll"
