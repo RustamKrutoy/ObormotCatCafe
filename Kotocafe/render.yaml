@@ -3,5 +3,5 @@ services:
     name: ObormotCatCafe
     env: dotnet
     plan: free
-    buildCommand: "dotnet publish -c Debug -o out"
-    startCommand: "dotnet out/Kotocafe.dll"
+    buildCommand: "dotnet publish -c Debug"
+    startCommand: "dotnet C:/Users/user/source/repos/Kotocafe/Kotocafe/bin/Debug/net8.0/Kotocafe.dll"
