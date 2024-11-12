@@ -1,0 +1,60 @@
+﻿@{
+    ViewData["Title"] = "О нас";
+}
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Котокафе "Обормот" - О нас</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <header>
+        <h2>О нас</h2>
+        <p>Мы - котокафе "Обормот". Наше заведение объединяет людей и пушистых друзей.</p>
+
+        <!-- Начало слайдера -->
+        <div class="slider">
+            <div class="slides">
+                <figure class="slide">
+                    <img src="/images/about_image1.jpg" alt="Снежок">
+                    <figcaption>Снежок. Самый скромный член нашей команды. Мы тоже не понимаем, как можно быть скромным с такой шикарной шубой.</figcaption>
+                </figure>
+                <figure class="slide">
+                    <img src="/images/about_image5.jpg" alt="Маленькая мурка">
+                    <figcaption>Маленькая мурка появилась у нас совсем недавно, но уже успела обзавестись тремя друзьями и всеобщей любовью.</figcaption>
+                </figure>
+                <figure class="slide">
+                    <img src="/images/about_image3.jpg" alt="Барсик">
+                    <figcaption>Барсик, крайне любознательный котик, в нашем кафе нет ни одного угла или щелочки, где он бы не побывал.</figcaption>
+                </figure>
+                <figure class="slide">
+                    <img src="/images/about_image4.jpg" alt="Джон Джонс">
+                    <figcaption>Джон Джонс. Игривый, но немного непослушный котик, никогда не сидит на месте, даже для фотографии его пришлось поймать.</figcaption>
+                </figure>
+            </div>
+            <button class="prev" onclick="moveSlide(-1)">&#10094;</button>
+            <button class="next" onclick="moveSlide(1)">&#10095;</button>
+        </div>
+        <!-- Конец слайдера -->
+    </header>
+    <footer style="background-color: #ffdfc4; padding: 10px; text-align: center;">
+        <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+            <div>
+                <img src="/images/img1.png" alt="@@kotikinst" style="width: 24px; height: 24px;">
+                <span>@@kotikinst</span>
+            </div>
+            <div>
+                <img src="/images/img2.png" alt="@@kototg" style="width: 24px; height: 24px;">
+                <span>@@kototg</span>
+            </div>
+            <div>
+                <img src="/images/img3.png" alt="+7 (999) 123-45-67" style="width: 24px; height: 24px;">
+                <span>+7 (999) 123-45-67</span>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
+

@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Kotocafe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73211DA9-DC59-44F4-9FFA-4F776FD86334}|Kotocafe\\Kotocafe.csproj|c:\\users\\user\\source\\repos\\kotocafe\\kotocafe\\views\\home\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73211DA9-DC59-44F4-9FFA-4F776FD86334}|Kotocafe\\Kotocafe.csproj|solutionrelative:kotocafe\\views\\home\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73211DA9-DC59-44F4-9FFA-4F776FD86334}|Kotocafe\\Kotocafe.csproj|c:\\users\\user\\source\\repos\\kotocafe\\kotocafe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73211DA9-DC59-44F4-9FFA-4F776FD86334}|Kotocafe\\Kotocafe.csproj|solutionrelative:kotocafe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73211DA9-DC59-44F4-9FFA-4F776FD86334}|Kotocafe\\Kotocafe.csproj|c:\\users\\user\\source\\repos\\kotocafe\\kotocafe\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{73211DA9-DC59-44F4-9FFA-4F776FD86334}|Kotocafe\\Kotocafe.csproj|solutionrelative:kotocafe\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73211DA9-DC59-44F4-9FFA-4F776FD86334}|Kotocafe\\Kotocafe.csproj|c:\\users\\user\\source\\repos\\kotocafe\\kotocafe\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{73211DA9-DC59-44F4-9FFA-4F776FD86334}|Kotocafe\\Kotocafe.csproj|solutionrelative:kotocafe\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73211DA9-DC59-44F4-9FFA-4F776FD86334}|Kotocafe\\Kotocafe.csproj|c:\\users\\user\\source\\repos\\kotocafe\\kotocafe\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73211DA9-DC59-44F4-9FFA-4F776FD86334}|Kotocafe\\Kotocafe.csproj|solutionrelative:kotocafe\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73211DA9-DC59-44F4-9FFA-4F776FD86334}|Kotocafe\\Kotocafe.csproj|c:\\users\\user\\source\\repos\\kotocafe\\kotocafe\\views\\home\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73211DA9-DC59-44F4-9FFA-4F776FD86334}|Kotocafe\\Kotocafe.csproj|solutionrelative:kotocafe\\views\\home\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73211DA9-DC59-44F4-9FFA-4F776FD86334}|Kotocafe\\Kotocafe.csproj|c:\\users\\user\\source\\repos\\kotocafe\\kotocafe\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73211DA9-DC59-44F4-9FFA-4F776FD86334}|Kotocafe\\Kotocafe.csproj|solutionrelative:kotocafe\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73211DA9-DC59-44F4-9FFA-4F776FD86334}|Kotocafe\\Kotocafe.csproj|c:\\users\\user\\source\\repos\\kotocafe\\kotocafe\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73211DA9-DC59-44F4-9FFA-4F776FD86334}|Kotocafe\\Kotocafe.csproj|solutionrelative:kotocafe\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73211DA9-DC59-44F4-9FFA-4F776FD86334}|Kotocafe\\Kotocafe.csproj|c:\\users\\user\\source\\repos\\kotocafe\\kotocafe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73211DA9-DC59-44F4-9FFA-4F776FD86334}|Kotocafe\\Kotocafe.csproj|solutionrelative:kotocafe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Kotocafe\\Kotocafe\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Kotocafe\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Kotocafe\\Kotocafe\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Kotocafe\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-28T13:22:42.759Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Kotocafe\\Kotocafe\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "Kotocafe\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Kotocafe\\Kotocafe\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "Kotocafe\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAF0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-27T18:30:57.97Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Kotocafe\\Kotocafe\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Kotocafe\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Kotocafe\\Kotocafe\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Kotocafe\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T18:31:20.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Kotocafe\\Kotocafe\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Kotocafe\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Kotocafe\\Kotocafe\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Kotocafe\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T18:29:55.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Kotocafe\\Kotocafe\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Kotocafe\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Kotocafe\\Kotocafe\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Kotocafe\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T18:29:43.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Kotocafe\\Kotocafe\\Views\\Home\\Menu.cshtml",
+              "RelativeDocumentMoniker": "Kotocafe\\Views\\Home\\Menu.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Kotocafe\\Kotocafe\\Views\\Home\\Menu.cshtml",
+              "RelativeToolTip": "Kotocafe\\Views\\Home\\Menu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T18:29:18.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Kotocafe\\Kotocafe\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Kotocafe\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Kotocafe\\Kotocafe\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Kotocafe\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwDQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T18:28:51.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.html",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Kotocafe\\Kotocafe\\Views\\Home\\Index.html",
+              "RelativeDocumentMoniker": "Kotocafe\\Views\\Home\\Index.html",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Kotocafe\\Kotocafe\\Views\\Home\\Index.html",
+              "RelativeToolTip": "Kotocafe\\Views\\Home\\Index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-27T18:28:27.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Kotocafe\\Kotocafe\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Kotocafe\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Kotocafe\\Kotocafe\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Kotocafe\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T18:28:00.593Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
